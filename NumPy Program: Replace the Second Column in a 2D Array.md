@@ -26,7 +26,7 @@ print(result)
 ```
 ## Output
 
-<img width="965" height="292" alt="image" src="https://github.com/user-attachments/assets/4b9f8565-9bca-4b65-af6d-c3bc06619c1e" />
+<img width="1131" height="352" alt="image" src="https://github.com/user-attachments/assets/d12b61b8-ffc2-4501-84ec-91e8d0b48720" />
 
 
 ## Result
